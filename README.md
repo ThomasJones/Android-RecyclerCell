@@ -143,9 +143,9 @@ View binding mechanisms in the example:
 - ButterKnife
 - Android Data-Binding
 
-<img src="https://github.com/ThomasJones/Android-RecyclerCell/blob/readme/screenshots/LinearContent.png" width="300"/>
-<img src="https://github.com/ThomasJones/Android-RecyclerCell/blob/readme/screenshots/GridContent.png" width="300"/>
-<img src="https://github.com/ThomasJones/Android-RecyclerCell/blob/readme/screenshots/MixedContent.png" width="300"/>
+<img src="https://github.com/ThomasJones/Android-RecyclerCell/blob/master/screenshots/LinearContent.png" width="300"/>
+<img src="https://github.com/ThomasJones/Android-RecyclerCell/blob/master/screenshots/GridContent.png" width="300"/>
+<img src="https://github.com/ThomasJones/Android-RecyclerCell/blob/master/screenshots/MixedContent.png" width="300"/>
 
 ## Declarative Cell Creation
 A consequence of separating out the cells into their own classes is a more declarative way of defining the contents of a RecyclerView. Using similar cell types as the example above, you could create the cells like this:
